@@ -1,7 +1,7 @@
 # Homework 0 - Collecting Information
 
 ## How To Use:
-- Compile and execute the .java file
+- Compile and execute the Java file
 - Follow programs prompts
 
 ## Result
