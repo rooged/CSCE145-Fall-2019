@@ -1,7 +1,8 @@
 # Lab 22 - Grader
 
 ## How To Use:
-Can't upload front end since it's copywrited code.
+- Compile and execute the Java file
+- Follow programs prompts
 
 ## Result
 Reads grades from a file and calculates the final grade.
