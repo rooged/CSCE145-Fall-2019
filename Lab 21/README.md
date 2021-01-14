@@ -1,7 +1,8 @@
 # Lab 21 - Vowel Counter
 
 ## How To Use:
-Can't upload front end since it's copywrited code.
+- Compile and execute the Java file
+- Follow programs prompts
 
 ## Result
 Reads from a .txt file and counts the number of vowels in it.
