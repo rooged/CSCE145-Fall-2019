@@ -7,7 +7,7 @@ Can't upload front end since it's copywrited code.
 Reads grades from a file and calculates the final grade.
 
 ### .txt File Structure
-LABS
+LABS\t
 100
 100
 100
