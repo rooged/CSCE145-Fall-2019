@@ -1,8 +1,7 @@
-# Lab 17 - Date Validation
+# Lab 17 - Line Drawer
 
 ## How To Use:
-- Compile and execute the Java file
-- Follow programs prompts
+Can't upload front end since it's copywrited code.
 
 ## Result
-Checks if an entered date is valid. Accounts for leap years.
+Prints line type in new pop-up window.
